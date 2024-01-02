@@ -22,7 +22,7 @@ The entire code for enhancing CLIPDraw using CLIPAG is contained in a single sel
 We recommend running it using Google Colab to facilitate the environment installation.
 
 <p align="center">
-  <img src="https://github.com/royg27/CLIPAG/blob/main/CLIPDraw.png" height="120">
+  <img src="https://github.com/royg27/CLIPAG/blob/main/CLIPDraw.png" height="240">
 </p>
 
 
