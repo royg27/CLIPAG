@@ -25,11 +25,15 @@ This work reveals the merits of CLIP with PAG (CLIPAG) in several vision-languag
 The entire code for enhancing CLIPDraw using CLIPAG is contained in a single self-contained colab notebook - `CLIPAG+CLIPDraw.ipynb`.
 
 <p align="center">
-  <img src="https://github.com/royg27/CLIPAG/blob/main/CLIPDraw.png" height="240">
+  <img src="https://github.com/royg27/CLIPAG/blob/main/CLIPDraw.png" height="300">
 </p>
 
 ## Generator-Free Text-to-Image Generation
 Our text-to-image generation framework is in `CLIPAG_T2I.ipynb`.
+
+<p align="center">
+  <img src="https://github.com/royg27/CLIPAG/blob/main/CLIPAG_T2I.png" height="400">
+</p>
 
 ## CLIPAG Pretrained Model
 The provided notebooks contain download instructions and code for our pretrained model, supported by the open-clip library. For simplicity, the model weights are available here - [CLIPAG_ViTB32.pt](https://zenodo.org/records/10446026/files/CLIPAG_ViTB32.pt). 
